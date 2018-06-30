@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    John Falcone	onefalc@yahoo.com	@onefalc
 
 # THANKS
 
